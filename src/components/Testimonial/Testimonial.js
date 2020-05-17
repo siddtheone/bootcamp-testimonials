@@ -2,7 +2,7 @@ import React, {useContext} from 'react';
 import styled from 'styled-components';
 import StyledTestimonial from './StyledTestimonial';
 import globalStateContext from '../../store/store';
-import {getSelected} from '../../reducer'
+import {getSelected} from '../../reducer';
 
 const TestimonialContainer = styled.div`
     text-align: center;
@@ -19,6 +19,8 @@ const UserContainer = styled.div`
 `;
 
 const Quote = styled.p`
+    font-weight: lighter;
+    line-height: 1.5;
     &:before {
         content: '\\201C';
     }

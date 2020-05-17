@@ -22,7 +22,7 @@ const Button = styled.button`
         border-bottom-right-radius: 100px;
     }
     &:hover {
-        opacity: .7;
+        background: lightgray;
     }
 `;
 
