@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bootcamp-testimonials/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/bootcamp-testimonials/static/js/main.bc68cbb0.chunk.js",
+    "main.js.map": "/bootcamp-testimonials/static/js/main.bc68cbb0.chunk.js.map",
+    "runtime-main.js": "/bootcamp-testimonials/static/js/runtime-main.0396139b.js",
+    "runtime-main.js.map": "/bootcamp-testimonials/static/js/runtime-main.0396139b.js.map",
+    "static/js/2.59b75315.chunk.js": "/bootcamp-testimonials/static/js/2.59b75315.chunk.js",
+    "static/js/2.59b75315.chunk.js.map": "/bootcamp-testimonials/static/js/2.59b75315.chunk.js.map",
+    "index.html": "/bootcamp-testimonials/index.html",
+    "precache-manifest.3f94e12197df93e643739d3a6da6e7f2.js": "/bootcamp-testimonials/precache-manifest.3f94e12197df93e643739d3a6da6e7f2.js",
+    "service-worker.js": "/bootcamp-testimonials/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/bootcamp-testimonials/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.59b75315.chunk.js.LICENSE.txt": "/bootcamp-testimonials/static/js/2.59b75315.chunk.js.LICENSE.txt",
+    "static/media/icon-next.svg": "/bootcamp-testimonials/static/media/icon-next.5421c364.svg",
+    "static/media/icon-prev.svg": "/bootcamp-testimonials/static/media/icon-prev.0fa4e8f2.svg",
+    "static/media/pattern-bg.svg": "/bootcamp-testimonials/static/media/pattern-bg.bb83e5bd.svg",
+    "static/media/pattern-curve.svg": "/bootcamp-testimonials/static/media/pattern-curve.ae8c0639.svg",
+    "static/media/pattern-quotes.svg": "/bootcamp-testimonials/static/media/pattern-quotes.83ba950c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0396139b.js",
+    "static/js/2.59b75315.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bc68cbb0.chunk.js"
+  ]
+}
