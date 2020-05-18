@@ -1,4 +1,4 @@
-import React, {useReducer} from 'react';
+import React, {useReducer, useEffect} from 'react';
 import Holder from './components/Holder';
 import ImageFrame from './components/ImageFrame';
 import Testimonial from './components/Testimonial';
@@ -21,6 +21,19 @@ const GlobalStyle = createGlobalStyle`
 
 function App() {
   const state = useReducer(reducer, initialState);
+  const handler = e => {
+    e.preventDefault();
+    if(e.keyCode === 37 || e.keyCode === 39) {
+      state[1]({
+        type: e.keyCode === 39 ? 'next' : 'prev'
+      })
+    }
+  }
+
+  useEffect(() => {
+    document.addEventListener('keyup', handler);
+    return () => document.removeEventListener('keyup', handler);
+  })
 
   return (
     <Provider value={state}>
