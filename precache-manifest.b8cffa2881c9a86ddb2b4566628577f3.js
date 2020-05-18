@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c70bfc68d543cbe3c65f3d98972549fd",
+    "revision": "84c12f5f1cffaa079f50816dbbc78f7e",
     "url": "/bootcamp-testimonials/index.html"
   },
   {
-    "revision": "01412830a8b59bd485a6",
+    "revision": "3635a2fb6b483cfc548a",
     "url": "/bootcamp-testimonials/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bootcamp-testimonials/static/js/2.59b75315.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01412830a8b59bd485a6",
-    "url": "/bootcamp-testimonials/static/js/main.bc68cbb0.chunk.js"
+    "revision": "3635a2fb6b483cfc548a",
+    "url": "/bootcamp-testimonials/static/js/main.2e6d42a6.chunk.js"
   },
   {
     "revision": "02529cae8f4f6a764d16",
